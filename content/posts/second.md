@@ -2,7 +2,7 @@
 date: 2023-12-19T11:25:05-04:00
 description: "这是一个很有意思的宝藏乐队"
 featured_image: '/images/y2.jpg'
-tags: [音乐]
+tags: [艺术]
 title: "西北民大乐队 DoomWay黯淡方式将在12月24日于葵艺术空间进行演出"
 author: "邱思忆"
 disable_share: false

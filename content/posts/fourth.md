@@ -2,7 +2,7 @@
 date: 2023-12-21T11:14:48-04:00
 description: "灾难无情人有情"
 featured_image: '/images/z3.jpg'
-tags: ["兰州"]
+tags: ["地震"]
 title: "12.18积石山地震 西北民大榆中校区震感强烈"
 author: "张飞洋"
 ---

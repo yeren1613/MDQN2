@@ -2,10 +2,10 @@
 other = "更多"
 
 [allTitle]
-other = " {{.Title }}"
+other = "全部文章"
 
 [recentTitle]
-other = " {{.Title }}"
+other = "民大新闻网"
 
 [readMore]
 other = "详细内容"
@@ -17,7 +17,7 @@ other = "By"
 other = "What's in this {{ .Type }}"
 
 [related]
-other = "Related"
+other = "相关新闻"
 
 [yourName]
 other = "Your Name"
