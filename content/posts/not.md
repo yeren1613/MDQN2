@@ -1,6 +1,6 @@
 ---
 date: 2023-1-20T11:15:58-04:00
-description: "在西北民族大学本部上演"
+description: "爱生活，再爱新闻"
 featured_image: "/images/DSC03921.JPG"
 tags: [艺术]
 title: "不止新闻"
